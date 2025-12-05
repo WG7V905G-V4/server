@@ -1,0 +1,9 @@
+body{
+  background: #dd2233;
+}
+
+.main{
+  height: 100vh;
+  width: 100vh;
+  font-size: 100px;
+}
